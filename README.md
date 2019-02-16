@@ -1,2 +1,2 @@
 # network_ChineseTVProgram
-Small Network Analysis Based on a Chinese TV Reality Show
+This is a social network analysis based on a Chinese TV reality show called "Meeting You ()". See my analysis at https://github.com/jiaxuan-lu/network_ChineseTVProgram/blob/master/SocialNetworkAnalysis%20-%20An%20Example%20Based%20on%20A%20Chinese%20TV%20Program.ipynb.
